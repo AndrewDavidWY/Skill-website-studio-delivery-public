@@ -1,0 +1,4 @@
+interface:
+  display_name: "网站策划与交付"
+  short_description: "为企业、组织和个人策划、制作、改进并验收网站"
+  default_prompt: "请使用 $website-studio-delivery，结合现有资料与项目状态完成网站策划、制作或优化，并按已授权范围交付。"
