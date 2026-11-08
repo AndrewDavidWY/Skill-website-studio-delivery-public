@@ -6,6 +6,8 @@
 
 技能名称：`website-studio-delivery` · [查看技能指令](SKILL.md)
 
+官网和原生 App 共用内容时，参照[原生 App 内容交付](references/native-app-delivery.md)。
+
 ## 适合什么时候用
 
 - 从资料出发规划一个个人或企业官网。
