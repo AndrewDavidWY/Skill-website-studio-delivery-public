@@ -6,7 +6,7 @@
 
 技能名称：`website-studio-delivery` · [查看技能指令](SKILL.md)
 
-官网和原生 App 共用内容时，参照[原生 App 内容交付](references/native-app-delivery.md)。
+官网和原生 App 共用内容时，参照[原生 App 内容交付](references/native-app-delivery.md)与[适配验收表](assets/native-app-acceptance.md)。覆盖身份与原始字节版本、渐进兼容、缓存提交、图片与搜索边界、离线替换和发布窗口；不把网站接口上线描述为所有客户端已经接入。
 
 ## 适合什么时候用
 
